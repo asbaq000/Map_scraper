@@ -1,0 +1,24 @@
+{
+  "sheet_url": "https://docs.google.com/spreadsheets/d/1f-rZNqd4Gg-T-3ZZyn3XZVCjlM21wOlipVszxEkp2-o/edit",
+  "country": "GB",
+  "cities": [
+    "London"
+  ],
+  "niches": [
+    "hotel"
+  ],
+  "target": 250,
+  "find_email": false,
+  "phone_lookup": true,
+  "headless": true,
+  "push_to_sheets": true,
+  "write_csv": true,
+  "fresh": false,
+  "tile_km": 3.0,
+  "max_tiles": 400,
+  "email_limit": 25,
+  "phone_cap": 250,
+  "min_delay": 1.8,
+  "max_delay": 4.0,
+  "share_with": ""
+}
